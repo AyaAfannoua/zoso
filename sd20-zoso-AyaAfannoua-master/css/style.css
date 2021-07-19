@@ -1,0 +1,35 @@
+.grid-container1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+
+}
+.item1 {
+    grid-area:  1/1;
+    
+
+}
+
+.item2 {
+    grid-area:  1/5;
+ 
+}
+
+.item3 {
+    grid-area:  1/6;
+  
+}
+
+.item4 {
+    grid-area:  1/8;
+   
+}
+
+.item5 {
+    grid-area:  1/7;
+   
+}
+
+.titel{
+    color: rgb(75, 144, 235);
+}
