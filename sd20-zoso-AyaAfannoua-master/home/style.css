@@ -40,6 +40,7 @@ body{
     grid-area: 2 / 1 / span 2 / 1;
     
   }
+
   .item4 {
     grid-area: 2 / 2 / span 2 / 2;
   
@@ -68,9 +69,14 @@ body{
   
   }
 
-
-
-
 .titel{
     color: rgb(0, 0, 0);
+}
+ h2{ 
+   margin-top: 25%;
+ }
+
+.imgVaar{
+  width:100px;
+  height: auto;
 }
